@@ -31,7 +31,7 @@
 *.app
 
 # Visual Studio Generated Files
-*.users
+*.user
 *.aps
 .vs
 Release
