@@ -33,5 +33,6 @@
 # Visual Studio Generated Files
 *.users
 *.aps
+.vs
 Release
 Debug
