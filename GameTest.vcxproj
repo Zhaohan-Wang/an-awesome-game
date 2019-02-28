@@ -125,12 +125,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\Entity.cpp" />
     <ClCompile Include="src\main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="inc\Entity.h" />
-    <ClInclude Include="inc\Entity.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
