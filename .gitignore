@@ -31,8 +31,9 @@
 *.app
 
 # Visual Studio Generated Files
-*.users
+*.user
 *.aps
 .vs
+*.sln
 Release
 Debug
